@@ -12,6 +12,7 @@ langchain = "^0.3.3"
 langchain-community = "^0.3.2"
 langchain-openai = "^0.2.2"
 python-dotenv = "^1.0.1"
+langchain-chroma = "^0.1.4"
 
 
 [tool.poetry.group.dev.dependencies]
